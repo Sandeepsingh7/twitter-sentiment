@@ -15,12 +15,6 @@ setup(
     long_description=long_description,
 
 
-    url='https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis',
-
-
-    author='Muhammad Ali Zia',
-    author_email='muhammad.17ali@gmail.com',
-
 
     classifiers=[
 
