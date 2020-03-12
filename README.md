@@ -41,9 +41,7 @@ Once you have created an app on twitter and installed all the dependencies by ru
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request
 
-## Authors
 
-Muhammad Ali Zia
 
 ## License
 
